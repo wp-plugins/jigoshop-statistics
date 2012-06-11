@@ -4,7 +4,7 @@ Plugin Name: JigoShop Statistics
 Plugin URI: http://wordpress.org/extend/plugins/admin-quick-jump/
 Description: Essential sales statistics for JigoShop
 Author: James Kemp
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.jckemp.com/
 */
 

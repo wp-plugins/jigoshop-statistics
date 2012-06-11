@@ -116,7 +116,7 @@ $monthorders = new WP_Query( $args );
 											
 											<?php 
 												$countorders = count($order_sales);
-												$average = $all_order_totals/$countorders;
+												$average = ($all_order_totals) ? $all_order_totals/$countorders : 0;
 												
 												echo '<a href="edit.php?post_type=shop_order"><span class="total-count">'.get_jigoshop_currency_symbol().number_format($average, 2, '.', ',').'</a>';
 											?>
