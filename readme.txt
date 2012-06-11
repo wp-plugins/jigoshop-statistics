@@ -28,10 +28,16 @@ Follow me on Twitter to keep up with the latest updates [@jamesckemp](https://tw
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed stats for 0 sales
+
 = 1.0 =
 * This is the first release of JigoShop Statistics.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Fixed stats for 0 sales
 
 = 1.0 =
 * This is the first release of JigoShop Statistics.
